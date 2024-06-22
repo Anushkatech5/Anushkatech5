@@ -1,5 +1,5 @@
-👋 Hi, I’m Anushka
-👀 I’m interested in Artificial Intelligence and  Web Development
+<br>👋 Hi, I’m Anushka</br>
+<br>👀 I’m interested in Artificial Intelligence and  Web Development</br>
 🌱 I’m currently learning DSA, MERN Stack and Flutter
 🔭 My LeetCode profile: [https://leetcode.com/u/Anushka57/](https://leetcode.com/u/Anushka57/)
 📫 Feel free to reach me on:
