@@ -1,4 +1,11 @@
-## Hi there 👋
+👋 Hi, I’m Anushka
+👀 I’m interested in Artificial Intelligence and  Web Development
+🌱 I’m currently learning DSA, MERN Stack and Flutter
+🔭 My LeetCode profile: [https://leetcode.com/u/Anushka57/](https://leetcode.com/u/Anushka57/)
+📫 Feel free to reach me on:
+LinkedIn: [https://www.linkedin.com/in/anushka5/](https://www.linkedin.com/in/anushka5/)
+gmail: guptaanushka024@gmail.com
+
 
 <!--
 **Anushkatech5/Anushkatech5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
