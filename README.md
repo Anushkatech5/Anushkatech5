@@ -5,7 +5,7 @@
 🔭 **My LeetCode profile:** [https://leetcode.com/u/Anushka57/](https://leetcode.com/u/Anushka57/)
 
 📫 **Feel free to reach me on:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka%20Gupta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka5/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka5/)  
 [![Gmail](https://img.shields.io/badge/Gmail-guptaanushka024@gmail.com-red?style=flat&logo=gmail)](mailto:guptaanushka024@gmail.com)
 
 
