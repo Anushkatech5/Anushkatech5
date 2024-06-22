@@ -1,10 +1,10 @@
 <br>👋 Hi, I’m Anushka</br>
 <br>👀 I’m interested in Artificial Intelligence and  Web Development</br>
-🌱 I’m currently learning DSA, MERN Stack and Flutter
-🔭 My LeetCode profile: [https://leetcode.com/u/Anushka57/](https://leetcode.com/u/Anushka57/)
-📫 Feel free to reach me on:
-LinkedIn: [https://www.linkedin.com/in/anushka5/](https://www.linkedin.com/in/anushka5/)
-gmail: guptaanushka024@gmail.com
+<br>🌱 I’m currently learning DSA, MERN Stack and Flutter</br>
+<br>🔭 My LeetCode profile: [https://leetcode.com/u/Anushka57/](https://leetcode.com/u/Anushka57/)</br>
+<br>📫 Feel free to reach me on:</br>
+<br>LinkedIn: [https://www.linkedin.com/in/anushka5/](https://www.linkedin.com/in/anushka5/)</br>
+<br>gmail: guptaanushka024@gmail.com</br>
 
 
 <!--
