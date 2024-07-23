@@ -2,7 +2,6 @@
 
 👀 **I’m interested in Artificial Intelligence and Web Development**  
 🌱 **I’m currently learning DSA, MERN Stack and Flutter**
-🌍 **I'm based in Delhi, India**
 🔭 **My LeetCode profile:** [https://leetcode.com/u/Anushka57/](https://leetcode.com/u/Anushka57/)
 
 📫 **Feel free to reach me on:**  
