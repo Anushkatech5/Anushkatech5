@@ -1,6 +1,9 @@
 ---
 
-## 👋 Hi, I’m Anushka
+<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<h3 align="center">Machine Learning Engineer & Data Scientist</h3>
+
+
 
 👀 **I’m interested in Artificial Intelligence and Web Development**  
 🌱 **I’m currently learning DSA, MERN Stack, and Flutter**  
