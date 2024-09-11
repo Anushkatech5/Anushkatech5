@@ -1,7 +1,7 @@
 ---
 
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">Machine Learning Engineer & Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Anushka</h1>
+<h3 align="center">Pre-Final Year B.Tech Student</h3>
 
 
 
