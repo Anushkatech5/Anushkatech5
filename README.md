@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Anushka</h1>
-<h3 align="center">Pre-Final Year B.Tech Student</h3>
+<h3 align="center">Pre-Final Year B.Tech Student | Aspiring Artificial Intelligence Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkatech5&label=Profile%20views&color=0e75b6&style=flat" alt="Anushkatech5" /> </p>
 
